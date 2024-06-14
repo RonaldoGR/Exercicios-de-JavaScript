@@ -1,0 +1,24 @@
+body {
+  font-family:  'Roboto', sans-serif;
+  background-color: rgba(74, 131, 238, 0.644);
+  
+}
+
+h1{
+  text-align: center;
+}
+
+section {
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.452);
+  background-color: white;
+  margin: auto;
+  padding: 30px;
+}
+
+footer {
+  font-style: italic;
+  text-align: center;
+}
+
